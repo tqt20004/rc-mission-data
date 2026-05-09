@@ -1,1 +1,25 @@
-{"message": "Test connection successful"}
+{
+  "weapons": [
+    {
+      "id": 1,
+      "name": "AK47 - RC Edition",
+      "price": 2500,
+      "damage": 1500,
+      "fireRate": 1.2
+    },
+    {
+      "id": 2,
+      "name": "Plasma Gun - Secret",
+      "price": 5000,
+      "damage": 3000,
+      "fireRate": 0.5
+    },
+    {
+      "id": 3,
+      "name": "Golden Desert Eagle",
+      "price": 1200,
+      "damage": 800,
+      "fireRate": 0.8
+    }
+  ]
+}
